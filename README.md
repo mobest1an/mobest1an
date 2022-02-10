@@ -1,5 +1,3 @@
-17 lines (12 sloc)  602 Bytes
-   
 # Hi there ✌️
 
 - 🎓 I'm a 2nd years student of ITMO University.
