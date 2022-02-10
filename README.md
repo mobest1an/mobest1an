@@ -5,9 +5,5 @@
 - 🔭 I’m currently working on University labs
 - 💬 Ask me about anything in [vk](https://vk.com/erik_101) or [telegram](https://t.me/erik_101) 
 
-<br/>
-<p align="left">
-  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobest1an&layout=compact">
-<img width="49.5%"   src="https://github-readme-stats.vercel.app/api?username=mobest1an">
-  </p>
-<br/>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mobest1an)](https://github.com/mobest1an)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobest1an&layout=compact)](https://github.com/mobest1an)
