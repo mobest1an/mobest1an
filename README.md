@@ -1,16 +1,15 @@
-### Hi there 👋
+17 lines (12 sloc)  602 Bytes
+   
+# Hi there ✌️
 
-<!--
-**mobest1an/mobest1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm a 2nd years student of ITMO University.
+- 🌱 I’m currently learning Spring Framework
+- 🔭 I’m currently working on University labs
+- 💬 Ask me about anything in [vk](https://vk.com/erik_101) or [telegram](https://t.me/erik_101) 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p align="left">
+  <img width="49.5%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobest1an&layout=compact">
+<img width="49.5%"   src="https://github-readme-stats.vercel.app/api?username=mobest1an">
+  </p>
+<br/>
