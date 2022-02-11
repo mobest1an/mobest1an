@@ -1,12 +1,12 @@
 ![Header](https://github.com/mobest1an/mobest1an/blob/main/assets/image.png)
 
-###I am a 2nd year student at ITMO University in the direction of software engineering.
+### I am a 2nd year student at ITMO University in the direction of software engineering.
 
 - 🌱 I’m currently learning Spring Framework
 - 🔭 I’m currently working on University labs
 - 💬 Ask me about anything in [vk](https://vk.com/erik_101) or [telegram](https://t.me/erik_101)
 
-###Languages and Tools
+### Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=orange)
 ![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=5fb92e)
