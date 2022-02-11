@@ -7,15 +7,15 @@
 
 ### Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-0c0b1b?style=for-the-badge&logo=java&logoColor=orange)
-![Spring](https://img.shields.io/badge/Spring-0c0b1b?style=for-the-badge&logo=spring&logoColor=5fb92e)
-![JavaScript](https://img.shields.io/badge/JavaScript-0c0b1b?style=for-the-badge&logo=javascript&logoColor=f7e018)
-![TypeScript](https://img.shields.io/badge/TypeScript-0c0b1b?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![React](https://img.shields.io/badge/React-0c0b1b?style=for-the-badge&logo=react&logoColor=61dbfb)
-![HTML](https://img.shields.io/badge/HTML-0c0b1b?style=for-the-badge&logo=html5&logoColor=e54c21)
-![CSS](https://img.shields.io/badge/CSS-0c0b1b?style=for-the-badge&logo=css3&logoColor=214ce5)
-![SQL](https://img.shields.io/badge/SQL-0c0b1b?style=for-the-badge&logo=postgresql&logoColor=2f6792)
-![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)
+[![Java](https://img.shields.io/badge/Java-0c0b1b?style=for-the-badge&logo=java&logoColor=orange)](https://github.com/mobest1an)
+[![Spring](https://img.shields.io/badge/Spring-0c0b1b?style=for-the-badge&logo=spring&logoColor=5fb92e)](https://github.com/mobest1an)
+[![JavaScript](https://img.shields.io/badge/JavaScript-0c0b1b?style=for-the-badge&logo=javascript&logoColor=f7e018)](https://github.com/mobest1an)
+[![TypeScript](https://img.shields.io/badge/TypeScript-0c0b1b?style=for-the-badge&logo=typescript&logoColor=3178c6)](https://github.com/mobest1an)
+[![React](https://img.shields.io/badge/React-0c0b1b?style=for-the-badge&logo=react&logoColor=61dbfb)](https://github.com/mobest1an)
+[![HTML](https://img.shields.io/badge/HTML-0c0b1b?style=for-the-badge&logo=html5&logoColor=e54c21)](https://github.com/mobest1an)
+[![CSS](https://img.shields.io/badge/CSS-0c0b1b?style=for-the-badge&logo=css3&logoColor=214ce5)](https://github.com/mobest1an)
+[![SQL](https://img.shields.io/badge/SQL-0c0b1b?style=for-the-badge&logo=postgresql&logoColor=2f6792)](https://github.com/mobest1an)
+[![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
 
 ### Contacts
 
