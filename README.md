@@ -1,9 +1,13 @@
 ![Header](https://github.com/mobest1an/mobest1an/blob/main/assets/image.png)
 
+---
+
 ### I am a 2nd year student at ITMO University in the direction of software engineering.
 
 - 🌱 I’m currently learning Spring Framework
 - 🔭 I’m currently working on University labs
+
+---
 
 ### Languages and Tools
 
@@ -17,11 +21,20 @@
 [![SQL](https://img.shields.io/badge/SQL-0c0b1b?style=for-the-badge&logo=postgresql&logoColor=2f6792)](https://github.com/mobest1an)
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
 
+---
+
+### Projects
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_SERVER&theme=radical)](https://github.com/mobest1an/LAB4_WEB_SERVER)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_CLIENT&theme=radical)](https://github.com/mobest1an/LAB4_WEB_CLIENT)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=Flat-Manager&theme=radical)](https://github.com/mobest1an/Flat-Manager)
+
+---
+
 ### Contacts
 
 [![VK](https://img.shields.io/badge/VK-0c0b1b?style=for-the-badge&logo=vk&logoColor=2787f5)](https://vk.com/erik_101)
 [![Telegram](https://img.shields.io/badge/Telegram-0c0b1b?style=for-the-badge&logo=telegram&logoColor=1d9bd7)](https://t.me/erik_101)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobest1an&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mobest1an&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobest1an&layout=compact&theme=radical)
