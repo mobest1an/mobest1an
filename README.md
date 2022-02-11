@@ -1,7 +1,5 @@
 ![Header](https://github.com/mobest1an/mobest1an/blob/main/assets/image.png)
 
----
-
 ### I am a 2nd year student at ITMO University in the direction of software engineering.
 
 - 🌱 I’m currently learning Spring Framework
@@ -20,8 +18,6 @@
 [![CSS](https://img.shields.io/badge/CSS-0c0b1b?style=for-the-badge&logo=css3&logoColor=214ce5)](https://github.com/mobest1an)
 [![SQL](https://img.shields.io/badge/SQL-0c0b1b?style=for-the-badge&logo=postgresql&logoColor=2f6792)](https://github.com/mobest1an)
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
-
----
 
 ### Projects
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_SERVER&theme=radical)](https://github.com/mobest1an/LAB4_WEB_SERVER)
