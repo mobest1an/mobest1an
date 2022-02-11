@@ -20,9 +20,9 @@
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
 
 ### Projects
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_SERVER&theme=radical&show_owner=true)](https://github.com/mobest1an/LAB4_WEB_SERVER)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_CLIENT&theme=radical&show_owner=true)](https://github.com/mobest1an/LAB4_WEB_CLIENT)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=Flat-Manager&theme=radical&show_owner=true)](https://github.com/mobest1an/Flat-Manager)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_SERVER&theme=radical)](https://github.com/mobest1an/LAB4_WEB_SERVER)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_CLIENT&theme=radical)](https://github.com/mobest1an/LAB4_WEB_CLIENT)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=Flat-Manager&theme=radical)](https://github.com/mobest1an/Flat-Manager)
 
 ---
 
@@ -31,6 +31,6 @@
 [![VK](https://img.shields.io/badge/VK-0c0b1b?style=for-the-badge&logo=vk&logoColor=2787f5)](https://vk.com/erik_101)
 [![Telegram](https://img.shields.io/badge/Telegram-0c0b1b?style=for-the-badge&logo=telegram&logoColor=1d9bd7)](https://t.me/erik_101)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mobest1an&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=mobest1an&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mobest1an&layout=compact&theme=radical)
