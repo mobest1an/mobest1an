@@ -22,6 +22,7 @@
 ### Projects
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_SERVER&theme=radical&show_owner=true)](https://github.com/mobest1an/LAB4_WEB_SERVER)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=LAB4_WEB_CLIENT&theme=radical&show_owner=true)](https://github.com/mobest1an/LAB4_WEB_CLIENT)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=StocksManager&theme=radical&show_owner=true)](https://github.com/mobest1an/StocksManager)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=Flat-Manager&theme=radical&show_owner=true)](https://github.com/mobest1an/Flat-Manager)
 
 ---
