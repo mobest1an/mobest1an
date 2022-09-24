@@ -1,10 +1,5 @@
 ![Header](https://github.com/mobest1an/mobest1an/blob/main/assets/image.png)
 
-### I am a 2nd year student at ITMO University in the direction of software engineering.
-
-- 🌱 I’m currently learning Spring Framework
-- 🔭 I’m currently working on University labs
-
 ---
 
 ### Languages and Tools
