@@ -12,6 +12,7 @@
 [![HTML](https://img.shields.io/badge/HTML-0c0b1b?style=for-the-badge&logo=html5&logoColor=e54c21)](https://github.com/mobest1an)
 [![CSS](https://img.shields.io/badge/CSS-0c0b1b?style=for-the-badge&logo=css3&logoColor=214ce5)](https://github.com/mobest1an)
 [![SQL](https://img.shields.io/badge/SQL-0c0b1b?style=for-the-badge&logo=postgresql&logoColor=2f6792)](https://github.com/mobest1an)
+[![C++](https://img.shields.io/badge/C++-0c0b1b?style=for-the-badge&logo=c%2B%2B&logoColor=a8b9cc)](https://github.com/mobest1an)
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
 
 ### Projects
