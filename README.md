@@ -4,7 +4,8 @@
 
 ### Languages and Tools
 
-[![Java](https://img.shields.io/badge/Java-0c0b1b?style=for-the-badge&logo=java&logoColor=orange)](https://github.com/mobest1an)
+[![Java](https://img.shields.io/badge/Java-0c0b1b?style=for-the-badge&logo=Java&logoColor=orange)](https://github.com/mobest1an)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0c0b1b?style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/mobest1an)
 [![Spring](https://img.shields.io/badge/Spring-0c0b1b?style=for-the-badge&logo=spring&logoColor=5fb92e)](https://github.com/mobest1an)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0c0b1b?style=for-the-badge&logo=javascript&logoColor=f7e018)](https://github.com/mobest1an)
 [![TypeScript](https://img.shields.io/badge/TypeScript-0c0b1b?style=for-the-badge&logo=typescript&logoColor=3178c6)](https://github.com/mobest1an)
