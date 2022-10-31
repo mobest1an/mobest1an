@@ -1,7 +1,3 @@
-![Header](https://github.com/mobest1an/mobest1an/blob/main/assets/image.png)
-
----
-
 ### Languages and Tools
 
 [![Java](https://img.shields.io/badge/Java-0c0b1b?style=for-the-badge&logo=Java&logoColor=orange)](https://github.com/mobest1an)
