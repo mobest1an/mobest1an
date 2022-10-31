@@ -19,7 +19,6 @@
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/mobest1an)
 
 ### Projects
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=SpringCloudTestProject&theme=radical&show_owner=true)](https://github.com/mobest1an/SpringCloudTestProject)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=mobest1an&repo=StocksManager&theme=radical&show_owner=true)](https://github.com/mobest1an/StocksManager)
 
 ---
